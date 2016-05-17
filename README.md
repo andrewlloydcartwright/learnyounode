@@ -1,1 +1,1 @@
-*These are the solutions to learnyounode*
+These are my* solutions to learnyounode, a self-guided interactive Node.js workshop, found at https://github.com/workshopper/learnyounode.
